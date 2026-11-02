@@ -1,0 +1,58 @@
+# Local credentials and environment settings
+.env
+.env.*
+!.env.example
+!.env.sample
+.aws/
+*.pem
+*.key
+
+# Local agent and editor settings
+/.codex/
+/.agents/
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Dependencies and Python caches
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Build, render, and temporary output
+dist/
+build/
+out/
+renders/
+.cache/
+.hyperframes/
+coverage/
+*.log
+*.tmp
+*.temp
+
+# Private local folders: do not include these in the GitHub repository
+/duckygen/
+/bernoulli/
+/gitlab-alpine/
+/gitlab-alphine/
+/linux-tcp/
+/php2shell/
+/skill-validation/
+/DELIVERABLES.md
+
+# Generated review frames and export bundles
+film-review/
+encoded-review/
+final.mp4
+project.zip
