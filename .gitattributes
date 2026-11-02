@@ -1,0 +1,22 @@
+* text=auto
+*.md text eol=lf
+*.py text eol=lf
+*.js text eol=lf
+*.mjs text eol=lf
+*.cjs text eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.svg text eol=lf
+*.png binary
+*.jpg binary
+*.wav binary
+*.mp3 binary
+*.mp4 binary
+*.ttf binary
+*.woff2 binary
+
+# Preserve upstream bytes for licenses and pinned integrity records.
+duckygen/companions/** -text
+duckygen/assets/runtime/vendor/** -text
+duckygen/assets/fonts/**/OFL.txt -text

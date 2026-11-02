@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "families": [
+    {
+      "id": "manrope",
+      "family": "Manrope",
+      "roles": [
+        "body",
+        "captions",
+        "headline"
+      ],
+      "asset_ids": [
+        "fonts/manrope-500",
+        "fonts/manrope-800"
+      ]
+    },
+    {
+      "id": "inter",
+      "family": "Inter",
+      "roles": [
+        "body",
+        "captions",
+        "ui",
+        "clean"
+      ],
+      "asset_ids": [
+        "fonts/inter-variable"
+      ]
+    },
+    {
+      "id": "barlow-condensed",
+      "family": "Barlow Condensed",
+      "roles": [
+        "headline",
+        "condensed",
+        "impact",
+        "numbers"
+      ],
+      "asset_ids": [
+        "fonts/barlow-condensed-600",
+        "fonts/barlow-condensed-800"
+      ]
+    },
+    {
+      "id": "ibm-plex-mono",
+      "family": "IBM Plex Mono",
+      "roles": [
+        "code",
+        "data",
+        "terminal",
+        "mono"
+      ],
+      "asset_ids": [
+        "fonts/ibm-plex-mono-400",
+        "fonts/ibm-plex-mono-600"
+      ]
+    },
+    {
+      "id": "fraunces",
+      "family": "Fraunces",
+      "roles": [
+        "editorial",
+        "serif",
+        "quote",
+        "title"
+      ],
+      "asset_ids": [
+        "fonts/fraunces-variable"
+      ]
+    },
+    {
+      "id": "caveat",
+      "family": "Caveat",
+      "roles": [
+        "sketch",
+        "annotation",
+        "handwriting"
+      ],
+      "asset_ids": [
+        "fonts/caveat-variable"
+      ]
+    }
+  ]
+}

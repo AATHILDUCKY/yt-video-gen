@@ -1,0 +1,15 @@
+# Company names and authentic logos
+
+When a company is an identified actor or subject, pair its name with its authentic logo. This applies to large technology companies and other named companies where a verified mark is available. Use the pair at the first visual introduction, in comparisons, and on later shots where the viewer needs to identify that company. Keep regular narration captions as text; do not attach a logo to every spoken repetition or turn the film into a persistent masthead.
+
+Search cached brand assets first, then verify the correct entity and logo against the company's official brand/media kit, press resources or website. Match the mark to the reporting period when discussing a historical event. A product logo and its parent company's logo are not interchangeable. Resolve similarly named entities from the source context rather than guessing.
+
+Prefer an official SVG, or a transparent PNG with sufficient resolution. Keep the exact geometry, aspect ratio and supplied clear space. Use the approved color version on the light paper background, or an officially supplied monochrome variant when appropriate. Authentic brand colors are an intentional exception to Duckygen's illustration palette. Do not sketch over, recolor, stretch, redraw with AI or morph the logo into a different mark. Animate its wrapper using scale, position or a reveal mask while keeping the mark intact. Surrounding arrows, props and captions keep the Duckygen style.
+
+Place the name and logo together within the shot's composition: for example, beside the company's server, above its side of a comparison, or with its statement. Use a readable name even when the symbol is familiar; an official wordmark can serve as the name if it remains clearly readable at delivery size. Avoid a generic office icon as the sole identifier for a named company. Generic organization/company props still suit unnamed actors and mechanism diagrams.
+
+Record the official source URL, retrieval date, file hash, company/product identity and available brand-use terms in the project asset manifest and SOURCES.md. Copy the selected asset into the project. Cache a reusable original in `assets/logos/` only when its terms allow that shared redistribution; otherwise keep it project-local with source notes. A downloadable logo is not automatically an open-source illustration. Do not describe a third-party mark as Duckygen artwork or imply sponsorship.
+
+The cache tool supports `--kind logos` with `--source-url`, `--license` and an optional `--license-file`. Use a descriptive company/product/variant name and do not bulk download unrelated brands. Search a handful of results instead of loading an entire logo collection. Reuse verified unchanged originals and preserve the project's exact copied version.
+
+If an authentic usable logo cannot be obtained, continue with the correct plain-text company name and record that limitation. Never invent a lookalike or silently present a generic avatar as the real logo. Check the final frames for wrong entities, poor contrast, clipped clear space, unreadable wordmarks and accidental distortion.

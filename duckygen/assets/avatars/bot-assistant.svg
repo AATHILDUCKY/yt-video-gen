@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><path d="M459 267C461 386 371 467 252 461C136 459 50 376 59 252C65 135 144 64 266 66C387 63 461 143 459 267Z" fill="#D76A4E" opacity=".14"/><path d="M450 252C452 369 369 451 250 447C131 445 48 363 54 246C60 127 142 52 263 55C379 53 449 134 450 252Z" fill="#FAF9F6" stroke="#292C27" stroke-width="3"/><path d="M443 250C447 365 366 442 250 439C137 438 57 358 62 247" fill="none" stroke="#292C27" stroke-width="1.2" opacity=".24"/><svg x="108" y="96" width="296" height="296" viewBox="0 0 24 24" fill="none" stroke="#292C27" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"><ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M6 6a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v4a2 2 0 0 1 -2 2h-8a2 2 0 0 1 -2 -2l0 -4" />
+  <ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M12 2v2" />
+  <ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M9 12v9" />
+  <ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M15 12v9" />
+  <ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M5 16l4 -2" />
+  <ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M15 14l4 2" />
+  <ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M9 18h6" />
+  <ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M10 8v.01" />
+  <ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M14 8v.01" />
+</svg><path d="M168 420Q256 431 344 413" fill="none" stroke="#D76A4E" stroke-width="6" stroke-linecap="round"/><circle cx="416" cy="105" r="23" fill="#D76A4E" stroke="#292C27" stroke-width="2.5"/></svg>

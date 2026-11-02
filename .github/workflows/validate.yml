@@ -1,0 +1,25 @@
+name: Validate skill
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate package, assets, companions, and physics helpers
+        run: npm --prefix duckygen run validate
+      - name: Check portable project creation
+        run: python3 duckygen/scripts/create_project.py --output "$RUNNER_TEMP/duckygen-smoke" --title 'Package validation' --duration 2

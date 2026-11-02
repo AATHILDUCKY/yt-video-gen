@@ -1,0 +1,464 @@
+[
+  {
+    "slug": "caption-news",
+    "name": "Caption News",
+    "chinese": "字幕新闻",
+    "category": "Edit & Documentary · 剪辑与纪实",
+    "path": "upstream/styles/caption-news/STYLE.md"
+  },
+  {
+    "slug": "newsreel",
+    "name": "1920s Newsreel",
+    "chinese": "1920s 新闻影片",
+    "category": "Edit & Documentary · 剪辑与纪实",
+    "path": "upstream/styles/newsreel/STYLE.md"
+  },
+  {
+    "slug": "countdown",
+    "name": "Live Countdown Split-screen",
+    "chinese": "实时倒计时分屏",
+    "category": "Edit & Documentary · 剪辑与纪实",
+    "path": "upstream/styles/countdown/STYLE.md"
+  },
+  {
+    "slug": "city-symphony",
+    "name": "Time-lapse Symphony",
+    "chinese": "延时交响",
+    "category": "Edit & Documentary · 剪辑与纪实",
+    "path": "upstream/styles/city-symphony/STYLE.md"
+  },
+  {
+    "slug": "visual-investigation",
+    "name": "Visual Investigation",
+    "chinese": "视觉调查",
+    "category": "Edit & Documentary · 剪辑与纪实",
+    "path": "upstream/styles/visual-investigation/STYLE.md"
+  },
+  {
+    "slug": "kino-montage",
+    "name": "Constructivist Montage",
+    "chinese": "构成主义蒙太奇",
+    "category": "Edit & Documentary · 剪辑与纪实",
+    "path": "upstream/styles/kino-montage/STYLE.md"
+  },
+  {
+    "slug": "telestrator",
+    "name": "Sports Telestrator",
+    "chinese": "体育战术板",
+    "category": "Edit & Documentary · 剪辑与纪实",
+    "path": "upstream/styles/telestrator/STYLE.md"
+  },
+  {
+    "slug": "news-package",
+    "name": "Broadcast News Package",
+    "chinese": "电视新闻包装",
+    "category": "Edit & Documentary · 剪辑与纪实",
+    "path": "upstream/styles/news-package/STYLE.md"
+  },
+  {
+    "slug": "satellite-briefing",
+    "name": "Satellite Briefing",
+    "chinese": "卫星简报",
+    "category": "Evidence Films · 实证影像",
+    "path": "upstream/styles/satellite-briefing/STYLE.md"
+  },
+  {
+    "slug": "briefing-board",
+    "name": "Engineering Briefing Board",
+    "chinese": "工程简报板",
+    "category": "Evidence Films · 实证影像",
+    "path": "upstream/styles/briefing-board/STYLE.md"
+  },
+  {
+    "slug": "lidar-survey",
+    "name": "LiDAR Survey",
+    "chinese": "点云测绘",
+    "category": "Evidence Films · 实证影像",
+    "path": "upstream/styles/lidar-survey/STYLE.md"
+  },
+  {
+    "slug": "white-model",
+    "name": "Projection on White Model",
+    "chinese": "白模投影",
+    "category": "Evidence Films · 实证影像",
+    "path": "upstream/styles/white-model/STYLE.md"
+  },
+  {
+    "slug": "data-physical",
+    "name": "Data Physicalization",
+    "chinese": "数据实物化",
+    "category": "Evidence Films · 实证影像",
+    "path": "upstream/styles/data-physical/STYLE.md"
+  },
+  {
+    "slug": "teardown",
+    "name": "Exploded Teardown",
+    "chinese": "产品拆解",
+    "category": "Evidence Films · 实证影像",
+    "path": "upstream/styles/teardown/STYLE.md"
+  },
+  {
+    "slug": "microscope",
+    "name": "Microscope Story",
+    "chinese": "显微叙事",
+    "category": "Evidence Films · 实证影像",
+    "path": "upstream/styles/microscope/STYLE.md"
+  },
+  {
+    "slug": "archive-lighttable",
+    "name": "Archive Light Table",
+    "chinese": "档案灯台",
+    "category": "Evidence Films · 实证影像",
+    "path": "upstream/styles/archive-lighttable/STYLE.md"
+  },
+  {
+    "slug": "crayon-book",
+    "name": "Crayon Picture Book",
+    "chinese": "蜡笔儿童绘本",
+    "category": "Hand-drawn & Painting · 手绘与绘画",
+    "path": "upstream/styles/crayon-book/STYLE.md"
+  },
+  {
+    "slug": "watercolor",
+    "name": "Watercolor Brush",
+    "chinese": "水彩笔刷",
+    "category": "Hand-drawn & Painting · 手绘与绘画",
+    "path": "upstream/styles/watercolor/STYLE.md"
+  },
+  {
+    "slug": "ink-wash",
+    "name": "Chinese Ink Wash",
+    "chinese": "中国水墨",
+    "category": "Hand-drawn & Painting · 手绘与绘画",
+    "path": "upstream/styles/ink-wash/STYLE.md"
+  },
+  {
+    "slug": "impasto",
+    "name": "Impasto Oil Painting",
+    "chinese": "油画厚涂",
+    "category": "Hand-drawn & Painting · 手绘与绘画",
+    "path": "upstream/styles/impasto/STYLE.md"
+  },
+  {
+    "slug": "one-line",
+    "name": "One-line Drawing",
+    "chinese": "一笔画",
+    "category": "Hand-drawn & Painting · 手绘与绘画",
+    "path": "upstream/styles/one-line/STYLE.md"
+  },
+  {
+    "slug": "whiteboard",
+    "name": "Whiteboard Explainer",
+    "chinese": "白板讲解",
+    "category": "Hand-drawn & Painting · 手绘与绘画",
+    "path": "upstream/styles/whiteboard/STYLE.md"
+  },
+  {
+    "slug": "urban-sketch",
+    "name": "Urban Sketch · Pen & Wash",
+    "chinese": "钢笔淡彩",
+    "category": "Hand-drawn & Painting · 手绘与绘画",
+    "path": "upstream/styles/urban-sketch/STYLE.md"
+  },
+  {
+    "slug": "chalkboard",
+    "name": "Chalkboard",
+    "chinese": "黑板粉笔",
+    "category": "Hand-drawn & Painting · 手绘与绘画",
+    "path": "upstream/styles/chalkboard/STYLE.md"
+  },
+  {
+    "slug": "shadow-puppet",
+    "name": "Shadow Puppetry",
+    "chinese": "皮影戏",
+    "category": "East Asian Traditions · 东方传统",
+    "path": "upstream/styles/shadow-puppet/STYLE.md"
+  },
+  {
+    "slug": "ukiyoe",
+    "name": "Ukiyo-e",
+    "chinese": "浮世绘",
+    "category": "East Asian Traditions · 东方传统",
+    "path": "upstream/styles/ukiyoe/STYLE.md"
+  },
+  {
+    "slug": "papercut-red",
+    "name": "Red Paper-cut",
+    "chinese": "红色窗花剪纸",
+    "category": "East Asian Traditions · 东方传统",
+    "path": "upstream/styles/papercut-red/STYLE.md"
+  },
+  {
+    "slug": "paper-lantern",
+    "name": "Paper-cut Lightbox",
+    "chinese": "纸雕灯影",
+    "category": "East Asian Traditions · 东方传统",
+    "path": "upstream/styles/paper-lantern/STYLE.md"
+  },
+  {
+    "slug": "risograph",
+    "name": "Risograph Print",
+    "chinese": "Risograph 孔版印刷",
+    "category": "Print & Printmaking · 印刷与版画",
+    "path": "upstream/styles/risograph/STYLE.md"
+  },
+  {
+    "slug": "halftone-dossier",
+    "name": "Halftone Dossier",
+    "chinese": "复古半调案卷",
+    "category": "Print & Printmaking · 印刷与版画",
+    "path": "upstream/styles/halftone-dossier/STYLE.md"
+  },
+  {
+    "slug": "woodcut",
+    "name": "Woodcut Print",
+    "chinese": "木刻版画",
+    "category": "Print & Printmaking · 印刷与版画",
+    "path": "upstream/styles/woodcut/STYLE.md"
+  },
+  {
+    "slug": "engraving",
+    "name": "Copperplate Engraving",
+    "chinese": "铜版画",
+    "category": "Print & Printmaking · 印刷与版画",
+    "path": "upstream/styles/engraving/STYLE.md"
+  },
+  {
+    "slug": "silkscreen-poster",
+    "name": "Silkscreen Travel Poster",
+    "chinese": "丝印旅行海报",
+    "category": "Print & Printmaking · 印刷与版画",
+    "path": "upstream/styles/silkscreen-poster/STYLE.md"
+  },
+  {
+    "slug": "printed-long-take",
+    "name": "Printed Long Take",
+    "chinese": "印刷长镜头",
+    "category": "Print & Printmaking · 印刷与版画",
+    "path": "upstream/styles/printed-long-take/STYLE.md"
+  },
+  {
+    "slug": "swiss-motion",
+    "name": "Swiss Motion Graphics",
+    "chinese": "瑞士动态排版",
+    "category": "Graphic & Type · 图形与排版",
+    "path": "upstream/styles/swiss-motion/STYLE.md"
+  },
+  {
+    "slug": "spy-titles",
+    "name": "60s Spy Title Sequence",
+    "chinese": "60s 间谍片头",
+    "category": "Graphic & Type · 图形与排版",
+    "path": "upstream/styles/spy-titles/STYLE.md"
+  },
+  {
+    "slug": "art-deco",
+    "name": "Art Deco",
+    "chinese": "装饰艺术",
+    "category": "Graphic & Type · 图形与排版",
+    "path": "upstream/styles/art-deco/STYLE.md"
+  },
+  {
+    "slug": "blueprint",
+    "name": "Blueprint",
+    "chinese": "蓝图 / 工程制图",
+    "category": "Graphic & Type · 图形与排版",
+    "path": "upstream/styles/blueprint/STYLE.md"
+  },
+  {
+    "slug": "stained-glass",
+    "name": "Stained Glass",
+    "chinese": "彩色玻璃窗",
+    "category": "Graphic & Type · 图形与排版",
+    "path": "upstream/styles/stained-glass/STYLE.md"
+  },
+  {
+    "slug": "pictogram-motion",
+    "name": "Pictogram Motion",
+    "chinese": "象形运动图形",
+    "category": "Graphic & Type · 图形与排版",
+    "path": "upstream/styles/pictogram-motion/STYLE.md"
+  },
+  {
+    "slug": "ascii-crt",
+    "name": "ASCII / CRT Terminal",
+    "chinese": "ASCII / CRT 终端",
+    "category": "Graphic & Type · 图形与排版",
+    "path": "upstream/styles/ascii-crt/STYLE.md"
+  },
+  {
+    "slug": "dataviz",
+    "name": "Data Storytelling",
+    "chinese": "数据叙事",
+    "category": "Information & Keynote · 信息与发布",
+    "path": "upstream/styles/dataviz/STYLE.md"
+  },
+  {
+    "slug": "iso-infographic",
+    "name": "Isometric Infographic",
+    "chinese": "等距信息图",
+    "category": "Information & Keynote · 信息与发布",
+    "path": "upstream/styles/iso-infographic/STYLE.md"
+  },
+  {
+    "slug": "dark-keynote",
+    "name": "Dark Tech Keynote",
+    "chinese": "暗色科技发布",
+    "category": "Information & Keynote · 信息与发布",
+    "path": "upstream/styles/dark-keynote/STYLE.md"
+  },
+  {
+    "slug": "living-screencast",
+    "name": "Living Screencast",
+    "chinese": "活体实机录屏",
+    "category": "Information & Keynote · 信息与发布",
+    "path": "upstream/styles/living-screencast/STYLE.md"
+  },
+  {
+    "slug": "hologram-hud",
+    "name": "Sci-fi Hologram HUD",
+    "chinese": "科幻全息界面",
+    "category": "Information & Keynote · 信息与发布",
+    "path": "upstream/styles/hologram-hud/STYLE.md"
+  },
+  {
+    "slug": "transit-map",
+    "name": "Transit Map",
+    "chinese": "地铁线路图",
+    "category": "Information & Keynote · 信息与发布",
+    "path": "upstream/styles/transit-map/STYLE.md"
+  },
+  {
+    "slug": "isometric-picture-book",
+    "name": "Isometric Picture Book",
+    "chinese": "等距绘本",
+    "category": "Information & Keynote · 信息与发布",
+    "path": "upstream/styles/isometric-picture-book/STYLE.md"
+  },
+  {
+    "slug": "circuit-board",
+    "name": "Circuit Board",
+    "chinese": "电路板",
+    "category": "Information & Keynote · 信息与发布",
+    "path": "upstream/styles/circuit-board/STYLE.md"
+  },
+  {
+    "slug": "rubber-hose",
+    "name": "1930s Rubber Hose Cartoon",
+    "chinese": "1930s 橡皮管卡通",
+    "category": "Cartoon & Anime · 卡通与动画",
+    "path": "upstream/styles/rubber-hose/STYLE.md"
+  },
+  {
+    "slug": "cel-anime-80s",
+    "name": "80s Cel Anime",
+    "chinese": "80 年代赛璐璐动画",
+    "category": "Cartoon & Anime · 卡通与动画",
+    "path": "upstream/styles/cel-anime-80s/STYLE.md"
+  },
+  {
+    "slug": "scifi-toon",
+    "name": "Sci-Fi Sitcom Toon",
+    "chinese": "科幻情景喜剧卡通",
+    "category": "Cartoon & Anime · 卡通与动画",
+    "path": "upstream/styles/scifi-toon/STYLE.md"
+  },
+  {
+    "slug": "midcentury-toon",
+    "name": "Mid-century Cartoon",
+    "chinese": "50s 扁平卡通",
+    "category": "Cartoon & Anime · 卡通与动画",
+    "path": "upstream/styles/midcentury-toon/STYLE.md"
+  },
+  {
+    "slug": "pixel-rpg",
+    "name": "16-bit Pixel RPG",
+    "chinese": "16-bit 像素 RPG",
+    "category": "Games · 游戏",
+    "path": "upstream/styles/pixel-rpg/STYLE.md"
+  },
+  {
+    "slug": "hd-2d",
+    "name": "HD-2D",
+    "chinese": "HD-2D",
+    "category": "Games · 游戏",
+    "path": "upstream/styles/hd-2d/STYLE.md"
+  },
+  {
+    "slug": "microgame",
+    "name": "Microgame Frenzy",
+    "chinese": "微游戏快闪",
+    "category": "Games · 游戏",
+    "path": "upstream/styles/microgame/STYLE.md"
+  },
+  {
+    "slug": "game-show",
+    "name": "Game Show Flat",
+    "chinese": "综艺节奏扁平",
+    "category": "Games · 游戏",
+    "path": "upstream/styles/game-show/STYLE.md"
+  },
+  {
+    "slug": "silent-film",
+    "name": "1920s Silent Film",
+    "chinese": "1920s 默片",
+    "category": "Cinema & Eras · 电影与时代",
+    "path": "upstream/styles/silent-film/STYLE.md"
+  },
+  {
+    "slug": "backrooms",
+    "name": "Liminal Found Footage",
+    "chinese": "后室 / 新怪谈",
+    "category": "Cinema & Eras · 电影与时代",
+    "path": "upstream/styles/backrooms/STYLE.md"
+  },
+  {
+    "slug": "brick-toy",
+    "name": "Brick Toy",
+    "chinese": "积木玩具",
+    "category": "Materials & 3D · 材质与 3D",
+    "path": "upstream/styles/brick-toy/STYLE.md"
+  },
+  {
+    "slug": "paper-popup",
+    "name": "Paper Pop-up Book",
+    "chinese": "纸片立体书",
+    "category": "Materials & 3D · 材质与 3D",
+    "path": "upstream/styles/paper-popup/STYLE.md"
+  },
+  {
+    "slug": "tilt-shift",
+    "name": "Tilt-Shift Miniature",
+    "chinese": "移轴微缩",
+    "category": "Materials & 3D · 材质与 3D",
+    "path": "upstream/styles/tilt-shift/STYLE.md"
+  },
+  {
+    "slug": "lowpoly-island",
+    "name": "Low-poly Isometric Island",
+    "chinese": "低多边形等距",
+    "category": "Materials & 3D · 材质与 3D",
+    "path": "upstream/styles/lowpoly-island/STYLE.md"
+  },
+  {
+    "slug": "glass-product",
+    "name": "Glass Product Render",
+    "chinese": "玻璃质感产品",
+    "category": "Materials & 3D · 材质与 3D",
+    "path": "upstream/styles/glass-product/STYLE.md"
+  },
+  {
+    "slug": "memphis-diorama",
+    "name": "Memphis Diorama",
+    "chinese": "孟菲斯微缩景观",
+    "category": "Materials & 3D · 材质与 3D",
+    "path": "upstream/styles/memphis-diorama/STYLE.md"
+  },
+  {
+    "slug": "desktop-flythrough",
+    "name": "Desktop Flythrough",
+    "chinese": "桌面穿梭",
+    "category": "Materials & 3D · 材质与 3D",
+    "path": "upstream/styles/desktop-flythrough/STYLE.md"
+  }
+]

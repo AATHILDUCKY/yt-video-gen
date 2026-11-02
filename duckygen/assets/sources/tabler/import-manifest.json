@@ -1,0 +1,196 @@
+{
+  "revision": "ed177a085b652fe04ec4f37ced867c94621e7840",
+  "date": "2026-11-01",
+  "license_files": [
+    "licenses/tabler-icons-MIT.txt"
+  ],
+  "items": [
+    {
+      "kind": "avatars",
+      "name": "person-neutral",
+      "icon": "user",
+      "tags": [
+        "person",
+        "customer",
+        "user",
+        "human"
+      ],
+      "source_url": "https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/user.svg",
+      "upstream_path": "sources/tabler/user.svg",
+      "source_sha256": "63554429f551522ea578a9bf72d1d350bd0ffdb8ede3af92a05e92d71cab6b9c",
+      "svg_path": "avatars/person-neutral.svg",
+      "png_path": "avatars/person-neutral.png"
+    },
+    {
+      "kind": "avatars",
+      "name": "hacker-anonymous",
+      "icon": "spy",
+      "tags": [
+        "hacker",
+        "attacker",
+        "anonymous",
+        "actor"
+      ],
+      "source_url": "https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/spy.svg",
+      "upstream_path": "sources/tabler/spy.svg",
+      "source_sha256": "ee04d7937aad9ff6726d70840c02b16c0d9c9c8fd5a00a359e5b815d51fc1f5e",
+      "svg_path": "avatars/hacker-anonymous.svg",
+      "png_path": "avatars/hacker-anonymous.png"
+    },
+    {
+      "kind": "avatars",
+      "name": "developer-coder",
+      "icon": "user-code",
+      "tags": [
+        "developer",
+        "engineer",
+        "programmer",
+        "coder"
+      ],
+      "source_url": "https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/user-code.svg",
+      "upstream_path": "sources/tabler/user-code.svg",
+      "source_sha256": "5e96ee01be952becde01df176b122482c7ff99b1704beefa22215891efee01f1",
+      "svg_path": "avatars/developer-coder.svg",
+      "png_path": "avatars/developer-coder.png"
+    },
+    {
+      "kind": "avatars",
+      "name": "organization-community",
+      "icon": "building-community",
+      "tags": [
+        "organization",
+        "organisation",
+        "institution",
+        "community"
+      ],
+      "source_url": "https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/building-community.svg",
+      "upstream_path": "sources/tabler/building-community.svg",
+      "source_sha256": "34437a9ea9ac171c92c3b0591dc1066bd5152d2a29d8f09e77903f748c64b9b1",
+      "svg_path": "avatars/organization-community.svg",
+      "png_path": "avatars/organization-community.png"
+    },
+    {
+      "kind": "avatars",
+      "name": "company-office",
+      "icon": "building-skyscraper",
+      "tags": [
+        "company",
+        "business",
+        "corporation",
+        "office"
+      ],
+      "source_url": "https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/building-skyscraper.svg",
+      "upstream_path": "sources/tabler/building-skyscraper.svg",
+      "source_sha256": "0be3f82cf872793f8c82e637f965e22eee7b59243a132d3130bf896f82e9a5fa",
+      "svg_path": "avatars/company-office.svg",
+      "png_path": "avatars/company-office.png"
+    },
+    {
+      "kind": "avatars",
+      "name": "bot-assistant",
+      "icon": "robot",
+      "tags": [
+        "bot",
+        "robot",
+        "assistant",
+        "automation",
+        "ai"
+      ],
+      "source_url": "https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/robot.svg",
+      "upstream_path": "sources/tabler/robot.svg",
+      "source_sha256": "c42ca8773a82b2bbcfc041fbfef2e207753c9f4e6ab2e5521c173c0497092458",
+      "svg_path": "avatars/bot-assistant.svg",
+      "png_path": "avatars/bot-assistant.png"
+    },
+    {
+      "kind": "illustrations",
+      "name": "team-collaboration",
+      "icon": "users",
+      "tags": [
+        "team",
+        "people",
+        "collaboration"
+      ],
+      "source_url": "https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/users.svg",
+      "upstream_path": "sources/tabler/users.svg",
+      "source_sha256": "a9892bcba1adad20184c0b50641b1a96a56fb9ef5135ff60462c664874021cc3",
+      "svg_path": "illustrations/team-collaboration.svg",
+      "png_path": "illustrations/team-collaboration.png"
+    },
+    {
+      "kind": "illustrations",
+      "name": "security-protection",
+      "icon": "shield-lock",
+      "tags": [
+        "security",
+        "protection",
+        "authorization"
+      ],
+      "source_url": "https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/shield-lock.svg",
+      "upstream_path": "sources/tabler/shield-lock.svg",
+      "source_sha256": "9fc37c3b11a297a81371652d89407b2bd19c17dfdffe0ff500d3426d96236d13",
+      "svg_path": "illustrations/security-protection.svg",
+      "png_path": "illustrations/security-protection.png"
+    },
+    {
+      "kind": "illustrations",
+      "name": "cloud-service",
+      "icon": "cloud",
+      "tags": [
+        "cloud",
+        "service",
+        "hosting"
+      ],
+      "source_url": "https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/cloud.svg",
+      "upstream_path": "sources/tabler/cloud.svg",
+      "source_sha256": "abbbc58eb9bdd3e5b1f41b28b1d9743274d79762d248c88d72455c47f674f8e2",
+      "svg_path": "illustrations/cloud-service.svg",
+      "png_path": "illustrations/cloud-service.png"
+    },
+    {
+      "kind": "illustrations",
+      "name": "server-infrastructure",
+      "icon": "server",
+      "tags": [
+        "server",
+        "infrastructure",
+        "backend"
+      ],
+      "source_url": "https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/server.svg",
+      "upstream_path": "sources/tabler/server.svg",
+      "source_sha256": "6c4aa71ca6fd11a738abf7972ad893f808e2e25d6181b5b329784050f95490d2",
+      "svg_path": "illustrations/server-infrastructure.svg",
+      "png_path": "illustrations/server-infrastructure.png"
+    },
+    {
+      "kind": "illustrations",
+      "name": "data-storage",
+      "icon": "database",
+      "tags": [
+        "database",
+        "data",
+        "storage"
+      ],
+      "source_url": "https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/database.svg",
+      "upstream_path": "sources/tabler/database.svg",
+      "source_sha256": "7cdcca11c1555d48e19c2fcd2fce4420cbec734f3fa3d28274f8167a796ee0d6",
+      "svg_path": "illustrations/data-storage.svg",
+      "png_path": "illustrations/data-storage.png"
+    },
+    {
+      "kind": "illustrations",
+      "name": "laptop-workstation",
+      "icon": "device-laptop",
+      "tags": [
+        "laptop",
+        "computer",
+        "workstation"
+      ],
+      "source_url": "https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/device-laptop.svg",
+      "upstream_path": "sources/tabler/device-laptop.svg",
+      "source_sha256": "2a0fffa65ddefd1017cbd7bd71675d72b5ca0748176cc39cda17600108665ed9",
+      "svg_path": "illustrations/laptop-workstation.svg",
+      "png_path": "illustrations/laptop-workstation.png"
+    }
+  ]
+}

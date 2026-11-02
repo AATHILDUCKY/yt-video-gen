@@ -40,9 +40,10 @@ coverage/
 *.log
 *.tmp
 *.temp
+.hf-tmp/
+.hyperframes-cache/
 
-# Private local folders: do not include these in the GitHub repository
-/duckygen/
+# Private video projects and validation runs (duckygen/ is shared)
 /bernoulli/
 /gitlab-alpine/
 /gitlab-alphine/

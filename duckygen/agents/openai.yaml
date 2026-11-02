@@ -1,0 +1,4 @@
+interface:
+  display_name: "Duckygen"
+  short_description: "Create clear modern animated learning videos"
+  default_prompt: "Use $duckygen to explain my topic with a clear answer, accurate visual mechanisms, modern animation, checked physics or equations when relevant, and a complete narrated video."

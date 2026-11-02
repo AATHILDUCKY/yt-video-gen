@@ -1,0 +1,16 @@
+{
+  "name": "duckygen",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Reusable agent skill for narrated educational animations",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "validate": "python3 scripts/validate_package.py && python3 scripts/validate_assets.py && python3 scripts/lemo_library.py verify && node scripts/check_physics_models.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.56.0"
+  }
+}
